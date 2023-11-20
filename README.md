@@ -1,3 +1,3 @@
 # GitHubCommitGraph
  A commit graph
- Course: CSCI 33
+ Course: CSCI 332
