@@ -1,3 +1,3 @@
 # GitHubCommitGraph
  A commit graph
-Name:
+Name: Ore
